@@ -33,7 +33,9 @@
         {{/if}}
 
         <!-- Fonts -->
-        <link rel="stylesheet" href="{{ resource "FontAwesome/css/font-awesome.css" }}">
+        {{!-- <link rel="stylesheet" href="{{ resource "FontAwesome/css/font-awesome.css" }}"> --}}
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+
         {{#if copy_fonts}}
         <link rel="stylesheet" href="{{ resource "fonts/fonts.css" }}">
         {{/if}}
@@ -67,7 +69,7 @@
         <div id="mdbook-help-popup">
             <h2 class="mdbook-help-title">Keyboard shortcuts</h2>
             <div>
-                <p>Press <kbd>←</kbd> or <kbd>→</kbd> to navigate between chapters</p>
+                <p>Press <kbd>←</kbd> or <kbd>// → </kbd> to navigate between chapters</p>
                 {{#if search_enabled}}
                 <p>Press <kbd>S</kbd> or <kbd>/</kbd> to search in the book</p>
                 {{/if}}

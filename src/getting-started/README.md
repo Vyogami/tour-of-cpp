@@ -15,11 +15,11 @@ In this section, you'll discover:
 
 C++ is a powerful programming language that gives you:
 
-- 🚀 *High Performance*: Direct hardware access and efficient execution
-- 🔧 *System Control*: Manual memory management and low-level operations  
-- 🏗️ *Scalability*: From small utilities to large-scale applications
-- 🌍 *Versatility*: Desktop apps, games, embedded systems, and more
-- 📚 *Rich Ecosystem*: Extensive libraries and active community
+- <i class="fa-solid fa-rocket"></i> *High Performance*: Direct hardware access and efficient execution
+- <i class="fa-solid fa-screwdriver-wrench"></i> *System Control*: Manual memory management and low-level operations  
+- <i class="fa-solid fa-bolt"></i> *Scalability*: From small utilities to large-scale applications
+- <i class="fa-solid fa-earth-americas"></i> *Versatility*: Desktop apps, games, embedded systems, and more
+- <i class="fa-solid fa-book"></i> *Rich Ecosystem*: Extensive libraries and active community
 
 ## Development Workflow
 
@@ -37,5 +37,5 @@ Let's get your environment ready and write some code!
 
 *Next Steps:*
 
-- [Installation and Setup →](installation.md)
-- [Hello, World! →](hello-world.md)
+- [Installation and Setup // → ](installation.md)
+- [Hello, World! // → ](hello-world.md)

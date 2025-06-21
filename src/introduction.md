@@ -38,11 +38,11 @@ This guide assumes:
 
 Throughout this tutorial, you'll find:
 
-- 💡 *Tips* for better understanding
-- ⚠️ *Warnings* about common mistakes  
-- 🔗 *References* to additional resources
-- 🏃 *Exercises* to practice concepts
+- <i class="fa-solid fa-lightbulb"></i> *Tips* for better understanding
+- <i class="fa-solid fa-triangle-exclamation"></i> *Warnings* about common mistakes  
+- <i class="fa-solid fa-paperclip"></i> *References* to additional resources
+- <i class="fa-solid fa-code"></i> *Exercises* to practice concepts
 
 Let's begin your journey through the rich and powerful world of C++!
 
-[Next: Getting Started →](getting-started/README.md)
+[Next: Getting Started // → ](getting-started/README.md)
